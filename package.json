@@ -1,0 +1,17 @@
+{
+  "name": "texttv-vma",
+  "version": "1.0.0",
+  "description": "Polls page 599 texttv.nu and extracts VMA (Viktigt Meddelande till Allmänheten)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Brengejsö <ca.brengesjo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.2",
+    "mkdirp": "^0.5.1",
+    "moment-timezone": "^0.5.10",
+    "request": "^2.79.0"
+  }
+}
